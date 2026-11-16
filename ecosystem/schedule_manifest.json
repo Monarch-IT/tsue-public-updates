@@ -1,0 +1,29 @@
+{
+  "schema_version": "2.1.0",
+  "app": "TSUE Digital Economy & Mobile Ecosystem",
+  "timetable_version_id": "94",
+  "updated_at": "2026-11-16T19:50:41.103Z",
+  "timestamp": 1794858641103,
+  "sha256": "fe2dad55709ec9a70982584126d391588857bf2be9745b19ef36492b8798dad6",
+  "prev_sha256": "54989e0a94550011541c8dce26326def51c0ab6b2f49bc3353f57d1e2b5b4706",
+  "size_bytes": 3621380,
+  "total_groups": 1549,
+  "total_cards": 13864,
+  "last_diff_count": 2826,
+  "changed_groups_count": 365,
+  "remote_endpoints": {
+    "schedule_json": "https://raw.githubusercontent.com/Monarch-IT/TSUE-Ecosystem/main/data/edupage_schedule.json",
+    "schedule_js": "https://raw.githubusercontent.com/Monarch-IT/TSUE-Ecosystem/main/js/edupage_data.js",
+    "manifest_json": "https://raw.githubusercontent.com/Monarch-IT/TSUE-Ecosystem/main/data/schedule_manifest.json",
+    "diff_json": "https://raw.githubusercontent.com/Monarch-IT/TSUE-Ecosystem/main/data/schedule_diff.json"
+  },
+  "sync_policy": {
+    "cron_nightly_runs": [
+      "00:00",
+      "02:00",
+      "04:00"
+    ],
+    "timezone": "Asia/Tashkent",
+    "cache_ttl_seconds": 3600
+  }
+}
