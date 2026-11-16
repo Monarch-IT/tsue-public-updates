@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.2.12",
-  "apkUrl": "https://github.com/Monarch-IT/tsue-public-updates/releases/download/v1.2.12/riat-tsue-android-v1.2.12.apk",
-  "changelog": "• Приватные исходники: обновления и расписание переведены в публичный канал без кода\n• Кнопка переключения следующей пары на виджете + 2-я/3-я пары при растягивании\n• Фоновая загрузка обновлений через шторку уведомлений (необязательные)",
+  "versionCode": 25,
+  "versionName": "1.2.13",
+  "apkUrl": "https://github.com/Monarch-IT/tsue-public-updates/releases/download/v1.2.13/riat-tsue-android-v1.2.13.apk",
+  "changelog": "• Автовозврат виджета к текущей паре через 6 секунд после просмотра следующих пар\n• Точный сброс до 1 пары при уменьшении размера виджета обратно\n• Запрос разрешения на уведомления сразу при запуске приложения и настройках виджета",
   "forceUpdate": false
 }
