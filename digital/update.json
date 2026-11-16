@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.2.13",
-  "apkUrl": "https://github.com/Monarch-IT/tsue-public-updates/releases/download/v1.2.13/riat-tsue-android-v1.2.13.apk",
-  "changelog": "• Автовозврат виджета к текущей паре через 6 секунд после просмотра следующих пар\n• Точный сброс до 1 пары при уменьшении размера виджета обратно\n• Запрос разрешения на уведомления сразу при запуске приложения и настройках виджета",
+  "versionCode": 26,
+  "versionName": "1.2.14",
+  "apkUrl": "https://github.com/Monarch-IT/tsue-public-updates/releases/download/v1.2.14/riat-tsue-android-v1.2.14.apk",
+  "changelog": "• Двойная проверка обновлений (riat-tsue.web.app + запасной GitHub Raw без задержек CDN)\n• Автовозврат виджета через 6 сек, возврат к 1 паре при уменьшении, запрос уведомлений",
   "forceUpdate": false
 }
